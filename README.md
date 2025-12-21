@@ -1,4 +1,5 @@
 # OPNsense → Wazuh Syslog Integration & Troubleshooting Guide
+![Wazuh](https://github.com/Chuchu-afk/Opensense-Logs-in-Wazuh/blob/main/wazuh%20opnsense.png?raw=true)
 
 ## Overview
 
