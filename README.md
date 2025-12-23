@@ -80,7 +80,7 @@ This lab reflects the type of problems encountered by SOC analysts, security eng
 
 ---
 
-## Implementation Steps (Working Configuration)
+## Implementation Steps
 
 ### Step 1 — Configure Wazuh to Accept Syslog
 
@@ -195,7 +195,7 @@ Expected:
 
 ---
 
-## Troubleshooting & Failure Analysis (Intentional)
+## Troubleshooting & Failure Analysis
 
 This section documents **real failures encountered**, the reasoning behind each investigation, and the resolution.
 
